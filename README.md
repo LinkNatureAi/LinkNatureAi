@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on **freelance & locally**
 
+- 🌱 I’m currently learning **API BUILDING**
+
 - 👨‍💻 All of my projects are available at [https://youtube.com/@LinkNatureAi](https://youtube.com/@LinkNatureAi)
 
 - 📫 How to reach me **LinkNatureAiContact@gmail.com**
